@@ -1,0 +1,27 @@
+{
+  "name": "functor.js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengtianze/functor.js.git"
+  },
+  "keywords": [
+    "functor",
+    "monad",
+    "functional programming"
+  ],
+  "author": "tianze feng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengtianze/functor.js/issues"
+  },
+  "homepage": "https://github.com/fengtianze/functor.js#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
